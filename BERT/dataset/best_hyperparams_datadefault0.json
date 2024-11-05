@@ -1,0 +1,11 @@
+{
+    "best_hyperparameters": {
+        "batch_size": 32,
+        "d_model": 256,
+        "dropout": 0.1,
+        "lr": 0.001,
+        "nhead": 16
+    },
+    "best_val_loss": 0.3879013458887736,
+    "best_auc_roc": 0.5761904761904763
+}
